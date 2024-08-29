@@ -19,6 +19,10 @@ The project is structured around a GitLab repository with the following key file
 - **`Tests.java`**: Contains example tests. This is where you will develop additional tests to ensure your implementation meets the specified requirements.
 - **`Main.java`**: Entry point for the program, used to control and run tests during development.
 
+## Usage
+
+To run the tests, execute the **`Main.java`** which allows selective execution of the provided tests.
+
 ## User Requirements (UR)
 
 Your `OS.java` implementation will be tested against the following user requirements:
@@ -38,17 +42,6 @@ Your `OS.java` implementation will be tested against the following user requirem
 - **No Additional Libraries**: Only use classes from Java SE17 and those specified in the coursework instructions.
 - **Timely Execution**: Ensure that the implementation is efficient and that tests run within defined time limits.
 
-### GitLab Repository
-
-- **Incremental Development**: Commit changes regularly to your GitLab repository, with meaningful commit messages that demonstrate incremental development.
-- **Repository Naming**: Your repository should be named `f29oc-2023-24-cw1` and must be hosted under the correct namespace in GitLab.
-
-### Submission
-
-- **`OS.java` File**: Submit the `OS.java` file to Canvas.
-- **Repository Zip**: Download a zip of your GitLab repository and submit it to Canvas.
-- **GitLab History**: Ensure your commit history is complete and demonstrates your development process.
-
 ## Marking Breakdown
 
 Marks will be awarded based on the correctness and thread-safety of your implementation, as demonstrated by running the provided tests. Each test will be run multiple times to ensure consistency.
@@ -60,6 +53,7 @@ Marks will be awarded based on the correctness and thread-safety of your impleme
 
 - The project underwent rigorous testing with 88 test runs executed.
 - All test cases passed successfully, demonstrating the robustness of the implementation.
+- Final Marks = 25/25
 
 ## Plagiarism Policy
 
