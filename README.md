@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the implementation of a simulation for a non-pre-emptive operating system as part of the F29OC Concurrency course. The primary goal is to assess the ability to develop thread-safe software using concurrency principles and methods taught in the course.
+This project involves the implementation of a simulation for a non-pre-emptive operating system as part of the F29OC Operating Systems and Concurrency course. The primary goal is to assess the ability to develop thread-safe software using concurrency principles and methods taught in the course.
 
 ## Key Objectives
 
